@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Maitray Jariwala
-### Full-Stack Developer | Blockchain Enthusiast | B.Tech Graduate
+### Full-Stack Developer | Blockchain Enthusiast | B.Tech Graduate | Pursuing M.Tech CSE Cyber Security
 
 I am a passionate developer with a strong foundation in **Full-Stack Development** and a growing focus on **Blockchain Technology**. I enjoy solving complex problems through code, ranging from algorithmic optimization to robust database management.
 
@@ -25,11 +25,12 @@ I am a passionate developer with a strong foundation in **Full-Stack Development
 
 ### 🎓 Education
 - **B.Tech in Computer Science** *SRM University, AP (Amaravati)*
+- **M.Tech in CSE Cyber-Security** *Nirma University (Ahmedabad)*
 
 ---
 
 ### 📫 Connect with Me
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Email:** [jariwalamaitray369@gmail.com](mailto:jariwalamaitray369@gmail.com)
 - **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 - **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
 - **Twitter:** [@your_handle](https://twitter.com/your_handle)
